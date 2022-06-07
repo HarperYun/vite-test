@@ -10,7 +10,7 @@
 import { reactive } from 'vue'
 
 const clubs = reactive([
-  '吉他', '熱舞', '棒球', '羽球', '足球', '童軍'
+  '吉他111', '熱舞', '棒球', '羽球', '足球', '童軍'
 ])
 </script>
 
